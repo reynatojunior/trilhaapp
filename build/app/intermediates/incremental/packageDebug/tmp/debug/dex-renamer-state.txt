@@ -1,0 +1,4 @@
+#Tue Sep 12 15:46:47 BRT 2023
+base.0=C\:\\Users\\Root\\Documents\\BootCamp-Santander\\flutter_app\\trilhaapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
